@@ -1,0 +1,64 @@
+
+
+body {
+  background-color: #F0D8E4;
+  color: #2B2B2B;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #F6F3EF !important;
+}
+
+.navbar-brand {
+  letter-spacing: 4px;
+}
+
+.nav-link {
+  color: #3D4A3F !important;
+  font-weight: 500;
+  letter-spacing: 1px;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: #A24A5A !important;
+}
+
+/* spacing luxury feel */
+.navbar-nav {
+  align-items: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero h1 {
+  font-size: 70px;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #3D4A3F;
+}
+
+.hero p {
+  color: #6F7F73;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.btn-luxury {
+  background-color: #3D4A3F;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  letter-spacing: 2px;
+  transition: 0.3s;
+}
+
+.btn-luxury:hover {
+  background-color: #A24A5A;
+}
+
+
